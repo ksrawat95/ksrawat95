@@ -1,34 +1,42 @@
 # Hi there! I'm ksrawat95 👋
 
-### Data Engineer & Machine Learning Developer
-I build robust, scalable data pipelines, design real-time data streaming architectures, and create interactive data visualizations. Currently, my core focus is on **Data Engineering & Analytics Infrastructure**.
+### Data Engineer & Former Web Developer | Aspiring AI Data Engineer
+*I have a background in **Web Development** and am currently focusing on **Cloud Data Engineering** and learning **AI Data Pipeline Architectures** (RAG, PySpark, and Orchestration).*
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 📂 Data Engineering & Warehousing
-* **Languages:** SQL (T-SQL, PL/pgSQL), Python, PySpark, R, Java
-* **Data Pipelines & Streaming:** PySpark, Apache Kafka, Web Scraping
-* **Data Transformation & Warehousing:** dbt (Data Build Tool), Snowflake, Databricks, SQL Server
-* **BI & Analytics:** Power BI
+### ☁️ Data Engineering & Cloud (Current Focus)
+* **Cloud Solutions:** Azure Synapse Analytics, Microsoft Azure
+* **Big Data & Pipelines:** Azure Databricks, PySpark, Apache Spark, Apache Kafka, Python
+* **Analytics Engineering:** dbt (Data Build Tool), Snowflake, SQL Server (T-SQL, PL/pgSQL)
 
-### 🧠 Artificial Intelligence & Machine Learning
-* **Models:** Supervised Learning (Regression & Classification), Neural Networks
-* **Computer Vision:** Face Detection & Recognition (OpenCV)
-* **Generative AI:** Retrieval-Augmented Generation (RAG) Pipelines
-
-### 🎨 Frontend & Data Visualization
-* **Libraries:** D3.js (Interactive line/bar charts), React, Vanilla CSS/HTML
-* **Design:** Interactive algorithm simulations (Sorting Simulators)
+### 💻 Web Development (Background)
+* **Backend Frameworks:** Python (Django), Java, REST APIs
+* **Frontend Technologies:** React, JavaScript, HTML5, CSS3
+* **Data Visualization:** D3.js (Interactive custom charts)
+* **Security & Authentication:** User authentication, data encryption (Fernet, GnuPG)
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Live Hosted Demos (GitHub Pages)
+Click on any of the links below to view my live interactive portfolios and tools:
 
+* 🌐 **[AI Data Engineering Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)**
+* 🌐 **[Sorting Simulator](https://ksrawat95.github.io/sorting-simulator/)**
+* 🌐 **[Multicolor Line Chart (D3.js)](https://ksrawat95.github.io/multicolor-line-chart-d3/)**
+* 🌐 **[Animated Barchart Tooltip](https://ksrawat95.github.io/animated-barchart-tooltip/)**
+* 🌐 **[Tick Barchart](https://ksrawat95.github.io/tick_barchart/)**
+* 🌐 **[Player Drumkit](https://ksrawat95.github.io/player-drumkit/)**
+* 🌐 **[Player with Drumkit](https://ksrawat95.github.io/player-with-drumkit/)**
+* 🌐 **[Interesting Logics](https://ksrawat95.github.io/intersesting_logics/)**
+
+---
+
+## 📂 Key Source Code Repositories
 * 📁 **[RAG PySpark Pipeline](https://github.com/ksrawat95/rag-pyspark-pipeline)** - AI-driven retrieval pipeline integrated with PySpark.
 * 📁 **[dbt Snowflake SQL Server Demo](https://github.com/ksrawat95/demo_dbt_snowflake_sql_server)** - End-to-end data transformation pipeline utilizing dbt, Snowflake, and SQL Server.
-* 📁 **[Interactive D3.js Visualizations](https://github.com/ksrawat95/multicolor-line-chart-d3)** - Highly customized, animated line and bar charts using D3.js.
 
 ---
 
