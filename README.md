@@ -1,85 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kundan Singh</h1>
-<h3 align="center">Lead Data Engineer | AI Data Platform Architect</h3>
+# Kundan Singh - Lead Data Engineer & AI Platform Architect
 
-<p align="center">
-  <a href="https://ksrawat95.github.io/resume/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Azure+Data+Engineering+Specialist;Databricks+%7C+PySpark+%7C+Airflow;Building+Scalable+Medallion+Architectures;Developing+RAG+%26+Generative+AI+Pipelines" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ksrawat95&label=Profile%20views&color=0e75b6&style=flat" alt="ksrawat95 Profile Views" />
-</p>
+Welcome to my professional profile repository.
 
+## Project Overview
+This repository serves as my developer landing page on GitHub. It presents a high-level overview of my professional experience as a Lead Data Engineer, specializing in enterprise-grade data platforms, cloud architectures, and generative AI systems.
 
-<p align="center">
-  <img src="etl-pipeline.svg" alt="ETL Data Engineering Pipeline Animation" width="100%" />
-</p>
+## Tech Stack
+- **Languages**: Python, Java, JavaScript, PLpgSQL, TSQL
+- **Data Engineering**: Apache Spark, Databricks, Apache Airflow, dbt, Azure Synapse
+- **Generative AI & LLM Systems**: LangChain, ChromaDB, OpenAI API, Vector Search
+- **Cloud Providers**: Microsoft Azure, Amazon Web Services (AWS)
 
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working as a **Lead Data Engineer** at **Pella Corporation**
-- ☁️ I specialize in **Azure Synapse, Databricks (Unity Catalog), and PySpark**
-- 🧠 Actively building and exploring **Retrieval-Augmented Generation (RAG) pipelines** and **Vector Databases (ChromaDB)**
-- 🏅 **Databricks Partner Certified** in Data & AI Governance and EDW Migrations
-- 📝 Check out my [Live Web Resume](https://ksrawat95.github.io/resume/)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kundansingh95/)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,python,java,js,react,github,git" />
-  </a>
-  <br><br>
-  <!-- Data Engineering Specific Badges -->
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-</p>
-
----
-
-### 🚀 Live Hosted Demos (GitHub Pages)
-
-| 🌐 AI & Architecture | 🌐 Interactive Visualizations |
-| :--- | :--- |
-| **[AI DE Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)** | **[Sorting Simulator](https://ksrawat95.github.io/sorting-simulator/)** |
-| **[Animated Barchart Tooltip](https://ksrawat95.github.io/animated-barchart-tooltip/)** | **[Multicolor Line Chart](https://ksrawat95.github.io/multicolor-line-chart-d3/)** |
-| **[Tick Barchart](https://ksrawat95.github.io/tick_barchart/)** | **[Interesting Logics](https://ksrawat95.github.io/intersesting_logics/)** |
-| **[Player Drumkit](https://ksrawat95.github.io/player-drumkit/)** | **[Player with Drumkit](https://ksrawat95.github.io/player-with-drumkit/)** |
-
----
-
-### 📂 Featured Repositories
-* 📁 **[Frontend Python Project](https://github.com/ksrawat95/frontend_python_project1)** - Full source code for the frontend Python implementation.
-* 📁 **[AI Data Engineering Portfolio](https://github.com/ksrawat95/ai-data-engineering-portfolio)** - Core portfolio showing my intersection of data engineering and interactive frontend.
-* 📁 **[Authentication Pure Django](https://github.com/ksrawat95/Authentigation_Pure_Django)** - Custom backend authentication implementation using pure Django.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksrawat95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kundan's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrawat95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180px" />
-</p>
-
----
-
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksrawat95/ksrawat95/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksrawat95/ksrawat95/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ksrawat95/ksrawat95/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
----
-<p align="center">
-  <i>"Transforming raw data into actionable intelligence and scalable AI systems."</i>
-</p>
+## Key Implementation Details
+- **Profile Customization**: Integrates dynamic badges, real-time GitHub stats, and typing SVG animations to display core competencies.
+- **Architectural Reference**: Showcases implementations for Medallion architecture patterns, RAG pipelines, and scalable ETL workflows.
+- **Portfolio Showcase**: Highlights key repositories such as `ai-data-engineering-portfolio` and various frontend/data projects.
