@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Azure+Data+Engineering+Specialist;Databricks+%7C+PySpark+%7C+Airflow;Building+Scalable+Medallion+Architectures;Developing+RAG+%26+Generative+AI+Pipelines" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ksrawat95&label=Profile%20views&color=0e75b6&style=flat" alt="ksrawat95 Profile Views" />
+</p>
+
 
 <p align="center">
   <img src="etl-pipeline.svg" alt="ETL Data Engineering Pipeline Animation" width="100%" />
@@ -55,6 +59,16 @@ A collection of my interactive frontend data visualizations and logic projects:
   <img src="https://github-readme-stats.vercel.app/api?username=ksrawat95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kundan's GitHub stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrawat95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180px" />
 </p>
+
+---
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksrawat95/ksrawat95/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksrawat95/ksrawat95/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ksrawat95/ksrawat95/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ---
 <p align="center">
