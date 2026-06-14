@@ -1,58 +1,49 @@
-# Hi there! I'm ksrawat95 👋
-
-### Data Engineer & Former Web Developer | Aspiring Cloud Data Engineer
-*I have a background in **Web Development** and am currently focusing on **Cloud Data Engineering** and building scalable **ETL/ELT Data Pipelines** (using Azure Databricks, PySpark, and Synapse).*
+<h1 align="center">Hi 👋, I'm Kundan Singh</h1>
+<h3 align="center">Lead Data Engineer | AI Data Platform Architect</h3>
 
 <p align="center">
-  <img src="etl-pipeline.svg" alt="ETL Data Engineering Pipeline Animation" width="100%" />
+  <a href="https://ksrawat95.github.io/resume/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Azure+Data+Engineering+Specialist;Databricks+%7C+PySpark+%7C+Airflow;Building+Scalable+Medallion+Architectures;Developing+RAG+%26+Generative+AI+Pipelines" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### ☁️ Data Engineering & Cloud (Current Focus)
-* **Cloud Solutions:** Azure Synapse Analytics, Microsoft Azure
-* **Big Data & Pipelines:** Azure Databricks, PySpark, Apache Spark, Apache Kafka, Python
-* **Analytics Engineering:** dbt (Data Build Tool), SQL Server (T-SQL, PL/pgSQL)
-
-### 💻 Web Development (Background)
-* **Backend Frameworks:** Python (Django), Java, REST APIs
-* **Frontend Technologies:** React, JavaScript, HTML5, CSS3
-* **Data Visualization:** D3.js (Interactive custom charts)
-* **Security & Authentication:** User authentication, data encryption (Fernet, GnuPG)
+### 👨‍💻 About Me
+- 🔭 I’m currently working as a **Lead Data Engineer** at **Pella Corporation**
+- ☁️ I specialize in **Azure Synapse, Databricks (Unity Catalog), and PySpark**
+- 🧠 Actively building and exploring **Retrieval-Augmented Generation (RAG) pipelines** and **Vector Databases (ChromaDB)**
+- 🏅 **Databricks Partner Certified** in Data & AI Governance and EDW Migrations
+- 📝 Check out my [Live Resume](https://ksrawat95.github.io/resume/) or my [AI Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kundansingh95/)
 
 ---
 
-## 🚀 Live Hosted Demos (GitHub Pages)
-Click on any of the links below to view my live interactive portfolios and tools:
+### 🛠️ Tech Stack & Tools
 
-* 🌐 **[AI Data Engineering Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)**
-* 🌐 **[Sorting Simulator](https://ksrawat95.github.io/sorting-simulator/)**
-* 🌐 **[Multicolor Line Chart (D3.js)](https://ksrawat95.github.io/multicolor-line-chart-d3/)**
-* 🌐 **[Animated Barchart Tooltip](https://ksrawat95.github.io/animated-barchart-tooltip/)**
-* 🌐 **[Tick Barchart](https://ksrawat95.github.io/tick_barchart/)**
-* 🌐 **[Player Drumkit](https://ksrawat95.github.io/player-drumkit/)**
-* 🌐 **[Player with Drumkit](https://ksrawat95.github.io/player-with-drumkit/)**
-* 🌐 **[Interesting Logics](https://ksrawat95.github.io/intersesting_logics/)**
-
----
-
-## 📂 Featured Repositories
-* 📁 **[AI Data Engineering Portfolio](https://github.com/ksrawat95/ai-data-engineering-portfolio)** - Core portfolio showing my intersection of data engineering and interactive frontend.
-* 📁 **[Sorting Simulator](https://github.com/ksrawat95/sorting-simulator)** - Interactive visual simulator for classic sorting algorithms.
-* 📁 **[Authentigation Pure Django](https://github.com/ksrawat95/Authentigation_Pure_Django)** - Custom backend authentication implementation using pure Django.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksrawat95&show_icons=true&theme=tokyonight" alt="ksrawat95's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrawat95&layout=compact&theme=tokyonight" alt="ksrawat95's Top Languages" height="180px"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,python,java,js,react,github,git" />
+  </a>
+  <br><br>
+  <!-- Data Engineering Specific Badges -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 </p>
 
 ---
 
-## 📬 Let's Connect!
-* **GitHub:** [ksrawat95](https://github.com/ksrawat95)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksrawat95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kundan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrawat95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
+
+---
+<p align="center">
+  <i>"Transforming raw data into actionable intelligence and scalable AI systems."</i>
+</p>
