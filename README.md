@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="etl-pipeline.svg" alt="ETL Data Engineering Pipeline Animation" width="100%" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -14,7 +18,7 @@
 - ☁️ I specialize in **Azure Synapse, Databricks (Unity Catalog), and PySpark**
 - 🧠 Actively building and exploring **Retrieval-Augmented Generation (RAG) pipelines** and **Vector Databases (ChromaDB)**
 - 🏅 **Databricks Partner Certified** in Data & AI Governance and EDW Migrations
-- 📝 Check out my [Live Resume](https://ksrawat95.github.io/resume/) or my [AI Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)
+- 📝 Check out my [Live Web Resume](https://ksrawat95.github.io/resume/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kundansingh95/)
 
 ---
@@ -36,11 +40,20 @@
 
 ---
 
+### 🚀 Live Hosted Demos (GitHub Pages)
+A collection of my interactive frontend data visualizations and logic projects:
+* 🌐 **[AI Data Engineering Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)**
+* 🌐 **[Sorting Simulator](https://ksrawat95.github.io/sorting-simulator/)**
+* 🌐 **[Multicolor Line Chart (D3.js)](https://ksrawat95.github.io/multicolor-line-chart-d3/)**
+* 🌐 **[Animated Barchart Tooltip](https://ksrawat95.github.io/animated-barchart-tooltip/)**
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksrawat95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kundan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrawat95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksrawat95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kundan's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrawat95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180px" />
 </p>
 
 ---
