@@ -52,7 +52,13 @@
 | **[Animated Barchart Tooltip](https://ksrawat95.github.io/animated-barchart-tooltip/)** | **[Multicolor Line Chart](https://ksrawat95.github.io/multicolor-line-chart-d3/)** |
 | **[Tick Barchart](https://ksrawat95.github.io/tick_barchart/)** | **[Interesting Logics](https://ksrawat95.github.io/intersesting_logics/)** |
 | **[Player Drumkit](https://ksrawat95.github.io/player-drumkit/)** | **[Player with Drumkit](https://ksrawat95.github.io/player-with-drumkit/)** |
-| **[Frontend Python Project](https://github.com/ksrawat95/frontend_python_project1)** | |
+
+---
+
+### 📂 Featured Repositories
+* 📁 **[Frontend Python Project](https://github.com/ksrawat95/frontend_python_project1)** - Full source code for the frontend Python implementation.
+* 📁 **[AI Data Engineering Portfolio](https://github.com/ksrawat95/ai-data-engineering-portfolio)** - Core portfolio showing my intersection of data engineering and interactive frontend.
+* 📁 **[Authentication Pure Django](https://github.com/ksrawat95/Authentigation_Pure_Django)** - Custom backend authentication implementation using pure Django.
 
 ---
 
