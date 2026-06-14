@@ -5,6 +5,11 @@
 
 ---
 
+## 🎯 Currently Learning & Building
+* 📚 **Retrieval-Augmented Generation (RAG):** I am currently learning RAG architectures and implementing them hands-on. You can follow my progress in my **[RAG PySpark Pipeline Repository](https://github.com/ksrawat95/rag-pyspark-pipeline)**.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### ☁️ Data Engineering & Cloud (Current Focus)
