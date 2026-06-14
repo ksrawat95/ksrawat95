@@ -45,15 +45,13 @@
 ---
 
 ### 🚀 Live Hosted Demos (GitHub Pages)
-A collection of my interactive frontend data visualizations and logic projects:
-* 🌐 **[AI Data Engineering Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)**
-* 🌐 **[Sorting Simulator](https://ksrawat95.github.io/sorting-simulator/)**
-* 🌐 **[Multicolor Line Chart (D3.js)](https://ksrawat95.github.io/multicolor-line-chart-d3/)**
-* 🌐 **[Animated Barchart Tooltip](https://ksrawat95.github.io/animated-barchart-tooltip/)**
-* 🌐 **[Tick Barchart](https://ksrawat95.github.io/tick_barchart/)**
-* 🌐 **[Player Drumkit](https://ksrawat95.github.io/player-drumkit/)**
-* 🌐 **[Player with Drumkit](https://ksrawat95.github.io/player-with-drumkit/)**
-* 🌐 **[Interesting Logics](https://ksrawat95.github.io/intersesting_logics/)**
+
+| 🌐 AI & Architecture | 🌐 Interactive Visualizations |
+| :--- | :--- |
+| **[AI DE Portfolio](https://ksrawat95.github.io/ai-data-engineering-portfolio/)** | **[Sorting Simulator](https://ksrawat95.github.io/sorting-simulator/)** |
+| **[Animated Barchart Tooltip](https://ksrawat95.github.io/animated-barchart-tooltip/)** | **[Multicolor Line Chart](https://ksrawat95.github.io/multicolor-line-chart-d3/)** |
+| **[Tick Barchart](https://ksrawat95.github.io/tick_barchart/)** | **[Interesting Logics](https://ksrawat95.github.io/intersesting_logics/)** |
+| **[Player Drumkit](https://ksrawat95.github.io/player-drumkit/)** | **[Player with Drumkit](https://ksrawat95.github.io/player-with-drumkit/)** |
 
 ---
 
