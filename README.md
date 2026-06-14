@@ -1,12 +1,11 @@
 # Hi there! I'm ksrawat95 👋
 
-### Data Engineer & Former Web Developer | Aspiring AI Data Engineer
-*I have a background in **Web Development** and am currently focusing on **Cloud Data Engineering** and learning **AI Data Pipeline Architectures** (RAG, PySpark, and Orchestration).*
+### Data Engineer & Former Web Developer | Aspiring Cloud Data Engineer
+*I have a background in **Web Development** and am currently focusing on **Cloud Data Engineering** and building scalable **ETL/ELT Data Pipelines** (using Azure Databricks, PySpark, and Synapse).*
 
----
-
-## 🎯 Currently Learning & Building
-* 📚 **Retrieval-Augmented Generation (RAG):** I am currently learning RAG architectures and implementing them hands-on. You can follow my progress in my **[RAG PySpark Pipeline Repository](https://github.com/ksrawat95/rag-pyspark-pipeline)**.
+<p align="center">
+  <img src="etl-pipeline.svg" alt="ETL Data Engineering Pipeline Animation" width="100%" />
+</p>
 
 ---
 
@@ -15,7 +14,7 @@
 ### ☁️ Data Engineering & Cloud (Current Focus)
 * **Cloud Solutions:** Azure Synapse Analytics, Microsoft Azure
 * **Big Data & Pipelines:** Azure Databricks, PySpark, Apache Spark, Apache Kafka, Python
-* **Analytics Engineering:** dbt (Data Build Tool), Snowflake, SQL Server (T-SQL, PL/pgSQL)
+* **Analytics Engineering:** dbt (Data Build Tool), SQL Server (T-SQL, PL/pgSQL)
 
 ### 💻 Web Development (Background)
 * **Backend Frameworks:** Python (Django), Java, REST APIs
@@ -39,9 +38,10 @@ Click on any of the links below to view my live interactive portfolios and tools
 
 ---
 
-## 📂 Key Source Code Repositories
-* 📁 **[RAG PySpark Pipeline](https://github.com/ksrawat95/rag-pyspark-pipeline)** - AI-driven retrieval pipeline integrated with PySpark.
-* 📁 **[dbt Snowflake SQL Server Demo](https://github.com/ksrawat95/demo_dbt_snowflake_sql_server)** - End-to-end data transformation pipeline utilizing dbt, Snowflake, and SQL Server.
+## 📂 Featured Repositories
+* 📁 **[AI Data Engineering Portfolio](https://github.com/ksrawat95/ai-data-engineering-portfolio)** - Core portfolio showing my intersection of data engineering and interactive frontend.
+* 📁 **[Sorting Simulator](https://github.com/ksrawat95/sorting-simulator)** - Interactive visual simulator for classic sorting algorithms.
+* 📁 **[Authentigation Pure Django](https://github.com/ksrawat95/Authentigation_Pure_Django)** - Custom backend authentication implementation using pure Django.
 
 ---
 
